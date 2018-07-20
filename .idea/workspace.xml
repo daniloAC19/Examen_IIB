@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85654bf4-20ba-4b14-91b5-76462563f323" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ExamenIB-WEB" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pokemon.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/pokemon/pokemon.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pokemon.service.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/pokemon.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="14" column="76" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="usuario.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/usuario.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="17" column="75" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="entrenador.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/entrenador.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="15" column="82" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/home/home.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="perfil.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/perfil/perfil.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3328">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/home/home.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-244">
+              <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pokemon.controller.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examen/project/src/pokemon/pokemon.controller.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="64" column="56" lean-forward="true" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transferencia.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/transferencia.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="1" column="66" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/login/login.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="85" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>med</find>
+      <find>.med</find>
+      <find>ID_U</find>
+      <find>ID_Us</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/medicamento/medicamento.component.html" />
+        <option value="$PROJECT_DIR$/Examen/project/src/transferencia/transferencia.entity.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/transferencia/transferencia.schema.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/paciente/paciente.controller.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/paciente/paciente.service.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/perfil/perfil.component.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/medicamento/medicamento.component.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/medicamentos/medicamento.service.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/medicamentos/medicamento.controller.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/transferencia/transferencia.controller.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/transferencia/transferencia.service.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/entrenador/entrenador.schema.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/entrenador/entrenadorservice.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/entrenador/entrenador.controller.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/entrenador/entrenador.entity.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/pokemon/pokemon.schema.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/pokemon/pokemon.entity.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/pokemon/pokemon.service.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/usuario/usuario.entity.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/entrenador/entrenador.data.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/pokemon/pokemon.data.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/app.module.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/pokemon/medicamento.component.spec.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/usuario/usuario.component.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/main.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/login/login.component.css" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/login/login.component.html" />
+        <option value="$PROJECT_DIR$/Examen/project/src/usuario/usuario.controller.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/interfaces/medicamentos.interface.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/interfaces/pokemon.interface.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/interfaces/entrenador.interface.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/interfaces/transferencia.interface.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/peticion-aceptar/peticion-aceptar.component.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/entrenador.service.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/peticion/peticion.component.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/entrenador/entrenador.component.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/home/home.component.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/perfil/perfil.component.html" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/peticion/peticion.component.html" />
+        <option value="$PROJECT_DIR$/Examen/project/src/entrenador/entrenador.service.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/usuario/usuario.service.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/transferencia.service.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/login/login.component.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/paciente.service.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/usuario.service.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/medicamento.service.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/pokemon/pokemon.component.ts" />
+        <option value="$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/pokemon.service.ts" />
+        <option value="$PROJECT_DIR$/Examen/project/src/pokemon/pokemon.controller.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Examen/project/node_modules" />
+    <handled-path value="$PROJECT_DIR$/FrontEnd/examenFront/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Examen/project/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd/examenFront/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@nestjs/typeorm/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/any-promise/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/app-root-path/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bignumber.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cli-highlight/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cli-highlight/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/corser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dotenv/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ecstatic/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ecstatic/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/figlet/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-ansi/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/highlight.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http-proxy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http-server/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jquery/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mem/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mysql/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mz/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/opener/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parent-require/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parse5/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/portfinder/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/portfinder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/reflect-metadata/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sqlstring/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/thenify-all/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/thenify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/typeorm/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/union/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/url-join/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wrap-ansi/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wrap-ansi/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wrap-ansi/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wrap-ansi/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/xml2js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/xmlbuilder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yargonaut/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yargonaut/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yargonaut/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yargonaut/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yargonaut/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yargonaut/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yargs/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yargs/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1397" />
+    <option name="y" value="23" />
+    <option name="width" value="1151" />
+    <option name="height" value="1337" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pokemon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="usuario" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="examenFront" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="examenFront" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="examenFront" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="examenFront" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="examenFront" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="examenFront" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="perfil" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="examenFront" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pokemon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen2B-WEB-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen2B-WEB-master" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="examenFront" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="servicios" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="E:\Semestres Poli\2018-A septimo\WEB\Proyectitos-Clase\ExamenIB-WEB\Examen\project\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/Examen/project/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Semestres Poli\2018-A septimo\WEB\Proyectitos-Clase\ExamenIB-WEB\FrontEnd\examenFront\src\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85654bf4-20ba-4b14-91b5-76462563f323" name="Default" comment="" />
+      <created>1527865031327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527865031327</updated>
+      <workItem from="1527865035446" duration="20599000" />
+      <workItem from="1527982326808" duration="1357000" />
+      <workItem from="1527999501807" duration="7978000" />
+      <workItem from="1528035182019" duration="9124000" />
+      <workItem from="1528045357482" duration="22305000" />
+      <workItem from="1528071844423" duration="148000" />
+      <workItem from="1528072019378" duration="1622000" />
+      <workItem from="1528073843837" duration="252000" />
+      <workItem from="1528082735287" duration="1177000" />
+      <workItem from="1528085287542" duration="38000" />
+      <workItem from="1528121026000" duration="4227000" />
+      <workItem from="1531762625860" duration="22037000" />
+      <workItem from="1531798375983" duration="17514000" />
+      <workItem from="1531816156362" duration="511000" />
+      <workItem from="1531830979021" duration="4424000" />
+      <workItem from="1531838144230" duration="850000" />
+      <workItem from="1531864476392" duration="1086000" />
+      <workItem from="1531929252793" duration="7566000" />
+      <workItem from="1531969774142" duration="18388000" />
+      <workItem from="1532013476071" duration="17804000" />
+      <workItem from="1532054114551" duration="8497000" />
+      <workItem from="1532097832789" duration="3311000" />
+      <workItem from="1532116755759" duration="30944000" />
+      <workItem from="1532182660010" duration="12666000" />
+      <workItem from="1532196472928" duration="44409000" />
+      <workItem from="1532274831882" duration="716000" />
+      <workItem from="1532283822890" duration="499000" />
+      <workItem from="1532284594469" duration="23038000" />
+      <workItem from="1534094987998" duration="14790000" />
+      <workItem from="1534111853064" duration="19000" />
+      <workItem from="1534111875542" duration="3513000" />
+    </task>
+    <task id="LOCAL-00001" summary="Literal 1 - Examen / solo para Paciente">
+      <created>1527883569154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527883569154</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Literal 1 - Examen / terminado">
+      <created>1528001102410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528001102410</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Literal 2y3 - Examen / Pipes con BadRequest">
+      <created>1528045064726</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528045064726</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Literal 2y3 - Examen / Pipes y Exception Terminado con BadRequest y NotFound">
+      <created>1528050107425</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528050107426</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Literal 4y5 - Examen / Controlador(Autorizacion) y cookie completado">
+      <created>1528068745797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528068745798</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Literal 4y5 - Examen / Controlador(Autorizacion) y cookie completado">
+      <created>1528072489568</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1528072489568</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Literal 4y5 - Examen / Controlador(Autorizacion) y cookie completado">
+      <created>1528073527058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1528073527058</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Literal 1,2,3,4y5 - Examen / Examen Finalizado">
+      <created>1528073638675</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1528073638675</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Literal 1,2,3,4y5 - Examen / Examen Finalizado">
+      <created>1528085046258</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1528085046258</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Literal 1,2,3,4y5 - Examen / Examen Finalizado">
+      <created>1528121432960</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1528121432960</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="303896000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1397" y="23" width="1151" height="1337" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49714285" visible="true" weight="0.41181582" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50147057" side_tool="true" weight="0.3036566" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962631" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4985294" visible="true" weight="0.33764258" />
+      <window_info id="Favorites" order="2" sideWeight="0.50285715" side_tool="true" weight="0.21001495" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285171" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49714285" weight="0.22421524" />
+      <window_info active="true" id="Structure" order="1" side_tool="true" visible="true" weight="0.24962631" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4985294" weight="0.1650165" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50147057" side_tool="true" weight="0.3036566" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
+      <window_info id="Favorites" order="2" sideWeight="0.50285715" side_tool="true" weight="0.21001495" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
+    <MESSAGE value="Literal 1 - Examen / solo para Paciente" />
+    <MESSAGE value="Literal 1 - Examen / terminado" />
+    <MESSAGE value="Literal 2y3 - Examen / Pipes con BadRequest" />
+    <MESSAGE value="Literal 2y3 - Examen / Pipes y Exception Terminado con BadRequest y NotFound" />
+    <MESSAGE value="Literal 4y5 - Examen / Controlador(Autorizacion) y cookie completado" />
+    <MESSAGE value="Literal 1,2,3,4y5 - Examen / Examen Finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Literal 1,2,3,4y5 - Examen / Examen Finalizado" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/entrenador.service.ts</url>
+          <line>7</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/usuario/usuario.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/app.routes.ts" />
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/pipes/usuario.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/pipes/transferencia.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/usuario/usuario.entity.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/login/login.component.css" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/login/login.component.html" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/perfil/perfil.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/pipes/entrenador-pipe.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/cabecera/cabecera.component.ts" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/peticion-aceptar/peticion-aceptar.component.ts" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/peticion-aceptar/peticion-aceptar.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/peticion-aceptar/peticion-aceptar.component.html" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/entrenador/entrenador.component.ts" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/pokemon/pokemon.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/pokemon/pokemon.component.html" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/cabecera/cabecera.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/cabecera/cabecera.component.html" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/peticion/peticion.component.ts" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/peticion/peticion.component.html" />
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/transferencia/transferencia.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4157">
+          <folding>
+            <element signature="e#0#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/entrenador/entrenador.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="78" column="23" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/usuario/usuario.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2257">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/usuario/usuario.component.ts" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/seleccion/seleccion.component.ts" />
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/usuario/usuario.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/usuario/usuario.data.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/entrenador/entrenador.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4694">
+          <caret line="127" column="68" selection-start-line="127" selection-start-column="68" selection-end-line="127" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/paciente.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/medicamento/medicamento.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/medicamento/medicamento.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="41" column="91" lean-forward="true" selection-start-line="41" selection-start-column="91" selection-end-line="41" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/medicamento.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="29" column="73" lean-forward="true" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/interfaces/paciene.interface.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/interfaces/medicamentos.interface.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/interfaces/entrenador.interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/interfaces/pokemon.interface.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/interfaces/transferencia.interface.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/interfaces/usuario.interface.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="85" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244">
+          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/pokemon/pokemon.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/transferencia.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="1" column="66" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/perfil/perfil.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3328">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examen/project/src/pokemon/pokemon.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="64" column="56" lean-forward="true" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/usuario.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="17" column="75" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/entrenador.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="15" column="82" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FrontEnd/examenFront/src/app/servicios/pokemon.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="14" column="76" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

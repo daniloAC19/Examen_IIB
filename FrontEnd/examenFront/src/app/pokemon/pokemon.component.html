@@ -1,0 +1,29 @@
+<div class="row contenedor container" >
+
+  <div class="row">
+    <div class="col-sm-6">
+      <br><p>{{nombre}}</p>
+    </div>
+    <div class="col-sm-6">
+      <img class="borde" [src]="imagen" alt="" width="75" height="75">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12" >
+      <div class="col-sm-6" *ngIf="estado">
+        <br>
+        <button type="submit" class="btn btn-dark btn-primary" (click)=pedirTransferencia() >
+          Pedir Transferencia
+        </button>
+      </div>
+      <div class="col-sm-6" *ngIf="estado2">
+        <br>
+        <button type="submit" class="btn btn-dark btn-primary" (click)=seleccionarTransferencia() >
+          Seleccionar Transferencia
+        </button>
+      </div>
+    </div>
+  </div>
+
+
+</div>
